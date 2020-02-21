@@ -1,4 +1,4 @@
-# 2E-LRP-with-Mobile-Satellite
+# 2E LRP with Mobile Satellite
 
 Creator : Hendri Sutrisno, 
 Email   : D10701802@mail.ntust.edu.tw
