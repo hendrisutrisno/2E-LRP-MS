@@ -1,8 +1,7 @@
 # 2E LRP with Mobile Satellite
 
 Creator : Hendri Sutrisno, 
-Email   : D10701802@mail.ntust.edu.tw
-Date    : December 30, 2019
+Email   : hendri@stat.sinica.edu.tw
 
 This repository specifies what the data and the function provided for evaluating 2E-LRP-MS problem.
 
